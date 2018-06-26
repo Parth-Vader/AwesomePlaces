@@ -24,10 +24,6 @@
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_slide_up.xml"
-    },
-    {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/res/anim/fade_out.xml"
     },
@@ -44,20 +40,16 @@
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_fab_out.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_fade_in.xml"
-    },
-    {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
@@ -80,36 +72,32 @@
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/anim/slide_down.xml"
-    },
-    {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/anim/slide_down.xml"
     },
     {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_top.xml"
-    },
-    {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/anim/pop.xml"
     },
     {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_slide_down.xml"
-    },
-    {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
@@ -118,9 +106,5 @@
     {
         "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
         "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/res/anim/fade_in.xml"
-    },
-    {
-        "merged": "/home/parth/Codes/rn-course/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/home/parth/Codes/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/anim/catalyst_fade_out.xml"
     }
 ]
